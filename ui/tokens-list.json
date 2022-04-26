@@ -1,0 +1,41 @@
+{
+  "name": "TechPay",
+  "logoURI": "https://www.techpay.io/assets/icons/TPC.svg",
+  "keywords": ["defi", "techpay"],
+  "timestamp": "2022-03-30T15:40:00.305Z",
+  "tokens": [
+    {
+      "name": "Wrapped TechPay",
+      "address": "0x92a2c1a72ec0C1600D3dE5823f97c43F787A787f",
+      "symbol": "WTPC",
+      "decimals": 18,
+      "chainId": 2569,
+      "logoURI": "https://www.techpay.io/assets/icons/TPC.svg"
+    },
+    {
+      "name": "TechPay USD",
+      "address": "0xb174cdb7739e421c88af5bd957162c1ab5d21ec7",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "chainId": 2569,
+      "logoURI": "https://cdn.worldvectorlogo.com/logos/usd-1.svg"
+    },
+    {
+      "name": "Wrapped TechPay",
+      "address": "0x92a2c1a72ec0C1600D3dE5823f97c43F787A787f",
+      "symbol": "WTPC",
+      "decimals": 18,
+      "chainId": 2479,
+      "logoURI": "https://www.techpay.io/assets/icons/TPC.svg"
+    },
+    {
+      "name": "TechPay USD",
+      "address": "0xb174cdb7739e421c88af5bd957162c1ab5d21ec7",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "chainId": 2479,
+      "logoURI": "https://cdn.worldvectorlogo.com/logos/usd-1.svg"
+    }
+  ],
+  "version": { "major": 0, "minor": 0, "patch": 0 }
+}

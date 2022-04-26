@@ -1,0 +1,27 @@
+{
+  "name": "techpay-uniswap",
+  "version": "1.0.0",
+  "description": "Uniswap port to TechPay Photon block chain.",
+  "main": "truffle-config.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechPay-io/TechPay-Uniswap.git"
+  },
+  "keywords": [
+    "TechPay",
+    "DeFi",
+    "Uniswap",
+    "Solidity"
+  ],
+  "author": "TechPay",
+  "license": "GPL3",
+  "bugs": {
+    "url": "https://github.com/TechPay-io/TechPay-Uniswap/issues"
+  },
+  "homepage": "https://github.com/TechPay-io/TechPay-Uniswap#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.1",
+    "truffle": "^5.5.11"
+  }
+}
